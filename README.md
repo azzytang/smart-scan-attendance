@@ -4,7 +4,7 @@ A two-factor authentication approach to efficient attendance taking with facial 
 
 ## Background
 
-I am currently a Sopohomore in HS, as of 2023, and this project was created for my 2023-2024 Science Fair project. After noticing time wasted every class period for attendance taking, I decided to design a solution. This automated attendance taking app removes teacher intevention and allows students to quickly scan their face and ID badge to be marked present.
+I am currently a Sopohomore in HS, as of 2023. After noticing time wasted every class period for attendance taking, I decided to design a solution. This automated attendance taking app removes teacher intevention and allows students to quickly scan their face and ID badge to be marked present.
 
 ## Key Features
 
